@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0e68101a-db0e-431a-9bee-0c03afd9b1c2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/converter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
@@ -92,6 +96,7 @@
       <updated>1779538545218</updated>
       <workItem from="1779538546298" duration="1679000" />
       <workItem from="1779728693610" duration="2930000" />
+      <workItem from="1779788554375" duration="265000" />
     </task>
     <servers />
   </component>
